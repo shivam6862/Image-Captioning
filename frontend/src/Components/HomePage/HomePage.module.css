@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0.5rem 1rem;
+}
+.UploadImagepart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: -webkit-fill-available;
+  padding: 1rem;
+}

@@ -1,0 +1,9 @@
+frontend/node_modules
+frontend/.env
+
+Backend/mlImageText/db.sqlite3
+Backend/mlImageText/env
+Backend/mlImageText/photos
+Backend/mlImageText/ImageText/__pycache__
+Backend/mlImageText/ImageText/migrations
+Backend/mlImageText/mlImageText/__pycache__
